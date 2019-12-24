@@ -6,8 +6,8 @@ header:
   overlay_image: /assets/images/Header.jpg  
 ---
 
-![](assets/images/Lazarus KPIs.pdf)<!-- -->
 
+<a target='_blank' href={require('assets/images/Lazarus KPIs.pdf')}>PDF Doc</a>
 
 
 [Return to my portfolio](https://dustinrogers.github.io/)
