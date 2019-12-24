@@ -7,8 +7,7 @@ header:
 ---
 
 
-<a target='_blank' href={require('assets/images/Lazarus KPIs.pdf')}>PDF Doc</a>
-
+![original](assets/images/Lazarus KPIs.png)
 
 [Return to my portfolio](https://dustinrogers.github.io/)
 
